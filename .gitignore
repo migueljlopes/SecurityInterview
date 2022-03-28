@@ -1,0 +1,15 @@
+*/target/
+.idea
+**/.DS_Store
+/target
+*.iml
+.classpath
+/.settings/
+/build
+/out
+/whitesource
+*.dot
+node_modules
+**/node_modules
+**/bin
+**/obj
